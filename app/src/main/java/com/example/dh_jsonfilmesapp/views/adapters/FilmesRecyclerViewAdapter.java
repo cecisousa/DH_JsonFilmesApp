@@ -1,4 +1,4 @@
-package com.example.dh_jsonfilmesapp.view.adapters;
+package com.example.dh_jsonfilmesapp.views.adapters;
 
 import android.view.LayoutInflater;
 import android.view.View;

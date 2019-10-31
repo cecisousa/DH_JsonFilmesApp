@@ -1,16 +1,14 @@
-package com.example.dh_jsonfilmesapp.view.activity;
-
-import androidx.appcompat.app.AppCompatActivity;
-import androidx.lifecycle.ViewModelProviders;
+package com.example.dh_jsonfilmesapp.views.activity;
 
 import android.content.Intent;
 import android.os.Bundle;
 import android.util.Log;
-import android.view.View;
 import android.widget.Button;
 
+import androidx.appcompat.app.AppCompatActivity;
+import androidx.lifecycle.ViewModelProviders;
+
 import com.example.dh_jsonfilmesapp.R;
-import com.example.dh_jsonfilmesapp.model.pojo.Filme;
 import com.example.dh_jsonfilmesapp.model.pojo.NovoFilme;
 import com.example.dh_jsonfilmesapp.viewmodel.AdicionarFilmeActivityViewModel;
 import com.google.android.material.textfield.TextInputLayout;
